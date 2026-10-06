@@ -48,4 +48,4 @@ for tools and experiments. **Raw Cast Digital** is the client work side, with
 **ShftState** as the place to find my work and hire me.
 
 [**Work with me — ShftState**](https://shftstate.rawcastdigital.com/) ·
-[**Printed parts and models — Printables**](https://www.printables.com/@mcanuck_2980267/models)
+[**Printed parts and models — Printables**](https://www.printables.com/@mcanuck_2980267)
