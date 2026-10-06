@@ -17,7 +17,7 @@ desktop, and whatever has me asking, “why does this have to be so bloody awkwa
 | [**AutoRO**](https://github.com/RawLabs/AutoRO) | Turning rough technician notes and estimates into something a customer can understand. | A local AI workbench for explanations and estimate PDFs, with source-controlled pricing and advisor review. **Built in the bay. Clear at the counter.** |
 | [**ArCHi**](https://github.com/RawLabs/ArCHi) | Useful Linux desktop tools that need too much menu hunting and finger gymnastics. | Local voice commands for apps, windows, zoom, and audio on Omarchy/Hyprland. |
 | [**CuPi**](https://github.com/RawLabs/CuPi) | Capturing what is on screen and turning it into a useful explanation or guide. | A desktop scratchpad that connects screen captures, AI exploration, and document exports with the evidence attached. |
-| [**Filament Material Database**](https://github.com/RawLabs/Filament-Material-Database) | Comparing printing materials when the useful properties are scattered across datasheets. | A working dataset of 100+ materials, with mechanical and thermal properties, notes, and source references. |
+| [**Filament Material Database**](https://github.com/RawLabs/Filament-Material-Database) | Comparing printing materials when the useful properties are scattered across datasheets. | A working dataset of 98 material records, with mechanical and thermal properties, notes, and source references. |
 | [**Space Engineers Logic HUD**](https://github.com/RawLabs/rco-se-logic-hub) | Chasing automation through timer blocks, event controllers, and toolbars. | A blueprint reader that puts actions, named targets, and missing links into one readable report. |
 
 The READMEs cover setup and current development status. OVRLand is in pre-beta;
