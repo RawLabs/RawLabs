@@ -14,14 +14,21 @@ desktop, and whatever has me asking, “why does this have to be so bloody awkwa
 | Project | What got awkward | What I built |
 | --- | --- | --- |
 | [**OVRLand**](https://github.com/RawLabs/OVRLand) | Bringing vehicle and trip information into one useful view. | A Raspberry Pi dashboard with sensors, GPS maps, weather, radio, and trip recording, with touch and joystick controls. |
+| [**MakerSim**](https://github.com/RawLabs/MakerSim) | Understanding how a printed part carries a load before committing to another print. | An interactive 3D playground: upload an STL, set the filament and print settings, choose holds and loads, and explore relative stress and movement. **Follow the force.** |
+| [**TaktRO**](https://github.com/RawLabs/TaktRO) | Shop software that adds menu hunting, repeated entry, and awkward handoffs to an already busy day. | A local shop-management prototype with keyboard shortcuts connecting repair orders, appointments, parts inventory, billing, and job history. |
 | [**AutoRO**](https://github.com/RawLabs/AutoRO) | Turning rough technician notes and estimates into something a customer can understand. | A local AI workbench for explanations and estimate PDFs, with source-controlled pricing and advisor review. **Built in the bay. Clear at the counter.** |
 | [**ArCHi**](https://github.com/RawLabs/ArCHi) | Useful Linux desktop tools that need too much menu hunting and finger gymnastics. | Local voice commands for apps, windows, zoom, and audio on Omarchy/Hyprland. |
 | [**CuPi**](https://github.com/RawLabs/CuPi) | Capturing what is on screen and turning it into a useful explanation or guide. | A desktop scratchpad that connects screen captures, AI exploration, and document exports with the evidence attached. |
-| [**Filament Material Database**](https://github.com/RawLabs/Filament-Material-Database) | Comparing printing materials when the useful properties are scattered across datasheets. | A working dataset of 98 material records, with mechanical and thermal properties, notes, and source references. |
-| [**Space Engineers Logic HUD**](https://github.com/RawLabs/rco-se-logic-hub) | Chasing automation through timer blocks, event controllers, and toolbars. | A blueprint reader that puts actions, named targets, and missing links into one readable report. |
 
 The READMEs cover setup and current development status. OVRLand is in pre-beta;
-AutoRO and ArCHi are in beta. The filament database is a working reference.
+AutoRO and ArCHi are in beta. MakerSim is an early playground for design
+exploration, and TaktRO is a working proof of concept.
+
+[**Try the MakerSim demo**](https://makersim.rawcastdigital.com/)
+
+**More from the workshop:** [Space Engineers Logic HUD](https://github.com/RawLabs/rco-se-logic-hub)
+turns timer blocks, event controllers, and toolbar actions into a readable
+blueprint report. [Browse all projects](https://github.com/RawLabs?tab=repositories).
 
 ## From the bench to the truck
 
@@ -31,6 +38,16 @@ AutoRO and ArCHi are in beta. The filament database is a working reference.
 
 *Real OVRLand hardware during development. These photos show an earlier interface;
 the project README has current app screenshots.*
+
+<details>
+<summary>A look at the maker side: MakerSim</summary>
+
+[![MakerSim showing a backpack bracket with a relative stress heatmap and a downward load](https://raw.githubusercontent.com/RawLabs/MakerSim/main/artifacts/workspace-heatmap.png)](https://makersim.rawcastdigital.com/)
+
+*Actual app preview. Colors show relative stress within one simulation; movement
+can be exaggerated for visibility. The project README explains the model's limits.*
+
+</details>
 
 <details>
 <summary>A look at the desktop side: CuPi</summary>
